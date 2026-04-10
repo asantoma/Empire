@@ -95,6 +95,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -   Added T1562.001 (Impair Defenses) to AMSI bypass, ETW patching, and Outlook security modules
 -   Fixed duplicate technique entries in RevertToSelf and NetRipper modules
 -   Fixed PSRansom module `name` field incorrectly set to `Invoke-Script` instead of `PSRansom`
+-   Fixed misc_skeleton_key Invoke-Mimikatz call
 
 ## [6.4.1] - 2026-02-15
 -   Fixed the `docs/quickstart/installation/README.md` file to specify a previously missing reference to Ubuntu
